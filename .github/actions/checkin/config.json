@@ -1,10 +1,10 @@
 {
     "domains": [
         {
-            "domain": "",
+            "domain": "https://hitun.io",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "123144357@qq.com",
+                "passwd": "Easy2get",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
